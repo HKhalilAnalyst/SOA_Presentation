@@ -1,20 +1,20 @@
 <div align="center">
-##  Machine learning api with django rest framework.
+<h3> Machine learning api with django rest framework.</h3>
 
 [![Licence](https://img.shields.io/github/license/justintime50/python-template)](LICENSE)
 
-![django rest framework ](https://github.com/qbdq/SOA_Presntation/blob/main/assests/images/django_rest.png?raw=true)
+![django rest framework ](https://github.com/qbdq/SOA_Presentation/blob/main/assests/images/django_rest.png?raw=true)
 </div>
 ## Team members
 
-1. Gharsa Abderrahmen : Implementing API with djangor-rest-framwork
+1. Gharsa Abderrahmen : Implementing API with django-rest-framwork
 2. Ayoub hedhli : Training model
 3. Amir ben saad : Deploying application
 4. khalil hamdi : Deploying application
 5. Zaineb Mhemed
 
 ## Technologie used :
-[Python]: Python is an interpreted high-level general-purpose programming language
+[Python]: Python is an interpreted high-level general-purpose programming language    
 [Django]: Django is a Python-based free and open-source web framework 
 
 
@@ -26,7 +26,7 @@
   1. ***Build & Train mdoel*** + Creating Django ***API*** to handle coming requests.
   2. ***Deploy*** our project with a popular cloud service.
 
-##### Part 1[^1]:
+***Part 1[^1]:***
 
 >This section will have two subparts : `Building the model` & `Implementing the API`
 
@@ -39,21 +39,21 @@ __Bulding the right model:__
 
 __Implementing the API :__
 
- 6. Virtual environment and install dependencies
- 7. Create Django project
- 8. Update settings.py
- 9. Migrations
- 10. API
- 11. Update apps.py
- 12. Edit views.py
- 13. Test API : Insomnia / ~~POSTMAN~
+ 1. Virtual environment and install dependencies
+ 2. Create Django project
+ 3. Update settings.py
+ 4. Migrations
+ 5. API
+ 6. Update apps.py
+ 7. Edit views.py
+ 8. Test API : Insomnia / ~~POSTMAN~
 
 
      We choosed to test our API With Insomnia
 
 
 
-##### Part 2[^2]:
+***Part 2[^2]***
 
 >We will deploy the project with a popular cloud service   
     -AWS ( Amazon Web Services )[^3]  
@@ -71,7 +71,7 @@ __Implementing the API :__
 ## Notes:
 *Coming soon..*
 
-## Usages:
+## Usage:
 *Coming soon..*
 
 
@@ -80,7 +80,7 @@ __Implementing the API :__
 
 ## License
 ***MIT License***
-*Free Software, Hell Yeah!*
+*Free Software, Hell Yeah! 🔥*
 
 
 
