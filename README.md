@@ -5,6 +5,7 @@
 
 ![django rest framework ](https://github.com/qbdq/SOA_Presentation/blob/main/assests/images/django_rest.png?raw=true)
 </div>
+
 ## Team members
 
 1. Gharsa Abderrahmen : Implementing API with django-rest-framwork
@@ -38,7 +39,6 @@ __Bulding the right model:__
  5. Create an API with Django to handle coming requests.
 
 __Implementing the API :__
-
  1. Virtual environment and install dependencies
  2. Create Django project
  3. Update settings.py
@@ -49,7 +49,7 @@ __Implementing the API :__
  8. Test API : Insomnia / ~~POSTMAN~
 
 
-     We choosed to test our API With Insomnia
+>We choosed to test our API With Insomnia
 
 
 
