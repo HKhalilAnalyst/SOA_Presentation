@@ -46,7 +46,7 @@ __Implementing the API :__
  5. API
  6. Update apps.py
  7. Edit views.py
- 8. Test API : Insomnia / ~~POSTMAN~
+ 8. Test API : Insomnia / ~~POSTMAN~~
 
 
 >We choosed to test our API With Insomnia
