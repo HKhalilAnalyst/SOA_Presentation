@@ -1,7 +1,7 @@
 <div align="center">
 <h3> Machine learning api with django rest framework.</h3>
 
-[![Licence](https://github.com/qbdq/SOA_Presentation/blob/main/)](LICENSE)
+[![Licence](https://img.shields.io/github/license/qbdq/SOA_Presentation?style=for-the-badge)](LICENSE)
 
 ![django rest framework ](https://github.com/qbdq/SOA_Presentation/blob/main/assests/images/django_rest.png?raw=true)
 </div>
